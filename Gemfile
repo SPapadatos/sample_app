@@ -14,6 +14,8 @@ group :test do
 	gem'rspec'
 end
 
+gem 'webrat', '0.7.1'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
